@@ -1,4 +1,4 @@
-# countdown-to-time
+# Countdown Timer
 A countdown to a certain time of day. For use with Twitch starting soon scenes.
 
 ## How to Use
